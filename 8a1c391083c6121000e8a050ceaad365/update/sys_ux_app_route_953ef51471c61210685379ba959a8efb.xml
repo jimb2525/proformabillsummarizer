@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="ProForma Bill Summarizer Workspace App Config">d53e3914d0c61210284c240d56b0ad03</app_config>
+        <description/>
+        <extension_point/>
+        <fields>table,sysId</fields>
+        <icon/>
+        <name>Record</name>
+        <optional_parameters>query,extraParams,views,selectedTab</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>record</route_type>
+        <screen_type display_value="Record">d13ef51499c61210e78f453209bd02fb</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-19 14:34:19</sys_created_on>
+        <sys_id>953ef51471c61210685379ba959a8efb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Record</sys_name>
+        <sys_package display_value="JAB ProForma Bill Summarizer" source="x_snc_jab_profor_0">8a1c391083c6121000e8a050ceaad365</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="JAB ProForma Bill Summarizer">8a1c391083c6121000e8a050ceaad365</sys_scope>
+        <sys_update_name>sys_ux_app_route_953ef51471c61210685379ba959a8efb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-19 14:34:19</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=953ef51471c61210685379ba959a8efb"/>
+</record_update>

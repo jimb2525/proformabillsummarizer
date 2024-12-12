@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="d491d614834a121000e8a050ceaad39b" sys_domain="global" table="x_snc_jab_profor_0_pro_forma_request" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-19 15:58:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9091d614834a121000e8a050ceaad3e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_jab_profor_0_pro_forma_request" name="x_snc_jab_profor_0_pro_forma_request" sys_domain="global" view="dd3ef514d0c6121049f92f38de3eb2fb">d491d614834a121000e8a050ceaad39b</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_jab_profor_0_pro_forma_request" sys_domain="global" view="dd3ef514d0c6121049f92f38de3eb2fb">9b3e791483c6121000e8a050ceaad3b4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-19 15:58:52</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-19 15:58:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dc91d614834a121000e8a050ceaad3e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_jab_profor_0_pro_forma_request" name="x_snc_jab_profor_0_pro_forma_request" sys_domain="global" view="dd3ef514d0c6121049f92f38de3eb2fb">d491d614834a121000e8a050ceaad39b</sys_ui_form>
+            <sys_ui_section caption="Pro Forma Summary" display_value="Pro Forma Summary" name="x_snc_jab_profor_0_pro_forma_request" sys_domain="global" view="dd3ef514d0c6121049f92f38de3eb2fb">0c91d614834a121000e8a050ceaad39a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-19 15:58:52</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_snc_jab_profor_0_pro_forma_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-19 15:58:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d491d614834a121000e8a050ceaad39b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_jab_profor_0_pro_forma_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="JAB ProForma Bill Summarizer" source="x_snc_jab_profor_0">8a1c391083c6121000e8a050ceaad365</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="JAB ProForma Bill Summarizer">8a1c391083c6121000e8a050ceaad365</sys_scope>
+            <sys_update_name>sys_ui_form_sections_d491d614834a121000e8a050ceaad39b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-19 15:58:52</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace ProForma Bill Summarizer Workspace 0" name="workspace-proforma-bill-summarizer-workspace-0">dd3ef514d0c6121049f92f38de3eb2fb</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

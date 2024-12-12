@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_generative_ai_config">
+    <sys_generative_ai_config action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <additional_configurations>{"skill_config_id":"4b315ed0834a121000e8a050ceaad374"}</additional_configurations>
+        <ai_suggested>false</ai_suggested>
+        <definition>c3315ed0834a121000e8a050ceaad31b</definition>
+        <definition_table>sys_one_extend_capability_definition</definition_table>
+        <max_tokens>1000</max_tokens>
+        <min_word_count>-1</min_word_count>
+        <model>llm_generic</model>
+        <name>Prompt name</name>
+        <parent/>
+        <prompt>You are a legal assistant in a law firm. Your job is to summarize a pro forma request that will be sent to a customer.
+
+Your response should follow the following format:
+
+Date:  {{pro_forma_request.date_printed}} 
+Client:  {{pro_forma_request.client}} 
+Matter:   {{pro_forma_request.matter}} 
+Billing Attorney:   {{pro_forma_request.billing_attorney}} 
+Total Billed Value:  {{pro_forma_request.billed_value_total}} 
+
+${Body}
+
+The ${Body} of the response should be gathered from this data - {{pro_forma_request.timeentrydatajson}}.  Do not include dollar amounts billed, nor the Timekeeper.  Do not include Line numbers.  Provide a concise summary in the body of the response.  Start the summary of the response with "This month, we focused on", followed by the summary.
+
+
+
+</prompt>
+        <prompt_template_role>user</prompt_template_role>
+        <request_tokens>15134</request_tokens>
+        <show_in_prompt_library>false</show_in_prompt_library>
+        <state>draft</state>
+        <sys_class_name>sys_generative_ai_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-19 15:57:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>47315ed0834a121000e8a050ceaad328</sys_id>
+        <sys_mod_count>17</sys_mod_count>
+        <sys_name>c3315ed0834a121000e8a050ceaad31b</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="JAB ProForma Bill Summarizer" source="x_snc_jab_profor_0">8a1c391083c6121000e8a050ceaad365</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="JAB ProForma Bill Summarizer">8a1c391083c6121000e8a050ceaad365</sys_scope>
+        <sys_update_name>sys_generative_ai_config_47315ed0834a121000e8a050ceaad328</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-02 17:43:54</sys_updated_on>
+        <temperature>0.2</temperature>
+        <version>1</version>
+    </sys_generative_ai_config>
+</record_update>

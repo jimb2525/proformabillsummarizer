@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_nowassist_skill_config">
+    <sn_nowassist_skill_config action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <description/>
+        <in_product_active>false</in_product_active>
+        <in_product_roles/>
+        <is_template>false</is_template>
+        <name>Pro Forma Summarizer</name>
+        <nap_skill_applicability/>
+        <order>100</order>
+        <parent/>
+        <skill_family display_value="Other">a5efaf1c93764210aa5730f16489186d</skill_family>
+        <skill_id>7a311ed0834a121000e8a050ceaad3c4</skill_id>
+        <skill_table>sys_one_extend_capability</skill_table>
+        <state>0</state>
+        <success_message/>
+        <sys_class_name>sn_nowassist_skill_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-19 15:57:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>4b315ed0834a121000e8a050ceaad374</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Pro Forma Summarizer</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="JAB ProForma Bill Summarizer" source="x_snc_jab_profor_0">8a1c391083c6121000e8a050ceaad365</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="JAB ProForma Bill Summarizer">8a1c391083c6121000e8a050ceaad365</sys_scope>
+        <sys_update_name>sn_nowassist_skill_config_4b315ed0834a121000e8a050ceaad374</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-19 15:57:26</sys_updated_on>
+    </sn_nowassist_skill_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=4b315ed0834a121000e8a050ceaad374"/>
+</record_update>

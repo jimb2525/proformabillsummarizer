@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="31ccb95083c6121000e8a050ceaad3e8" label="Pro Forma Request" max_length="40" name="x_snc_jab_profor_0_pro_forma_request" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Matter" max_length="40" name="matter" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Billing Attorney" max_length="40" name="billing_attorney" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Client" max_length="40" name="client" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Pro Forma Summary" max_length="1000" name="pro_forma_summary" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Date Printed" max_length="40" name="date_printed" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Prebill Number" max_length="40" name="prebill_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Billing Coordinator" max_length="40" name="billing_coordinator" type="string"/>
+        <element label="Billed Value Total" max_length="40" name="billed_value_total" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="TimeEntryDataJSON" max_length="1000" name="timeentrydatajson" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

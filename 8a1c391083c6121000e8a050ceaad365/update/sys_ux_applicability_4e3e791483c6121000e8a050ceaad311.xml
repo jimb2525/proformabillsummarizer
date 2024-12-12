@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <api_name>x_snc_jab_profor_0.Audience for app proforma-bill-summarizer-workspace</api_name>
+        <description/>
+        <name>Audience for app proforma-bill-summarizer-workspace</name>
+        <role_names/>
+        <roles>021c391083c6121000e8a050ceaad379,861c391083c6121000e8a050ceaad371,0a1c391083c6121000e8a050ceaad3a3</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-19 14:34:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4e3e791483c6121000e8a050ceaad311</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audience for app proforma-bill-summarizer-workspace</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="JAB ProForma Bill Summarizer" source="x_snc_jab_profor_0">8a1c391083c6121000e8a050ceaad365</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="JAB ProForma Bill Summarizer">8a1c391083c6121000e8a050ceaad365</sys_scope>
+        <sys_update_name>sys_ux_applicability_4e3e791483c6121000e8a050ceaad311</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-19 14:34:21</sys_updated_on>
+    </sys_ux_applicability>
+</record_update>

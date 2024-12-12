@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Pro Forma Summary">d5f2c7d4838e121000e8a050ceaad342</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-19 19:36:22</sys_created_on>
+        <sys_id>02538718838e121000e8a050ceaad363</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Pro Forma Summary</sys_name>
+        <sys_package display_value="JAB ProForma Bill Summarizer" source="x_snc_jab_profor_0">8a1c391083c6121000e8a050ceaad365</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="JAB ProForma Bill Summarizer">8a1c391083c6121000e8a050ceaad365</sys_scope>
+        <sys_update_name>sc_cat_item_category_02538718838e121000e8a050ceaad363</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-19 19:36:22</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="JAB ProForma Bill Summarizer">8a1c391083c6121000e8a050ceaad365</application>
+        <file_path/>
+        <instance_id>e3dd915bdbeef0100ae3ac44d4961951</instance_id>
+        <instance_name>jbelote14demo</instance_name>
+        <name>sc_cat_item_category_02538718838e121000e8a050ceaad363</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Pro Forma Summary">d5f2c7d4838e121000e8a050ceaad342</sc_cat_item><sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-19 19:36:22</sys_created_on><sys_id>02538718838e121000e8a050ceaad363</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Can We Help You?.Pro Forma Summary</sys_name><sys_package display_value="JAB ProForma Bill Summarizer" source="x_snc_jab_profor_0">8a1c391083c6121000e8a050ceaad365</sys_package><sys_policy/><sys_scope display_value="JAB ProForma Bill Summarizer">8a1c391083c6121000e8a050ceaad365</sys_scope><sys_update_name>sc_cat_item_category_02538718838e121000e8a050ceaad363</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-19 19:36:22</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-1778793546</payload_hash>
+        <record_name>Can We Help You?.Pro Forma Summary</record_name>
+        <reverted_from/>
+        <source>ce1c391083c6121000e8a050ceaad36a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-19 19:36:22</sys_created_on>
+        <sys_id>86538718838e121000e8a050ceaad367</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19345ed079f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-19 19:36:22</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>86538718cc8e1210b2ff9085581c9a66</update_guid>
+        <update_guid_history>86538718cc8e1210b2ff9085581c9a66:-1778793546</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Can We Help You?.Pro Forma Summary">2b53c718838e121000e8a050ceaad33b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-19 19:36:28</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>19affac3a3a146099f4d5e2819eba449</sys_id>
+        <sys_metadata>02538718838e121000e8a050ceaad363</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Pro Forma Summary</sys_name>
+        <sys_package display_value="JAB ProForma Bill Summarizer" source="x_snc_jab_profor_0">8a1c391083c6121000e8a050ceaad365</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="JAB ProForma Bill Summarizer">8a1c391083c6121000e8a050ceaad365</sys_scope>
+        <sys_scope_delete display_value="">a8e1f96aa5f848f8a1f5c3e610e1b744</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_02538718838e121000e8a050ceaad363</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_02538718838e121000e8a050ceaad363">86538718838e121000e8a050ceaad367</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-19 19:36:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

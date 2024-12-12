@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="ml_capability_definition_workflow">
+    <ml_capability_definition_workflow action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <capability display_value="Workflow">d12a03f173212010c0bbb63854f6a7b9</capability>
+        <current_solution_version>1</current_solution_version>
+        <dataset_language>en</dataset_language>
+        <description>AES PDF preprocessing workflow</description>
+        <fields/>
+        <filter/>
+        <pretrained>false</pretrained>
+        <request_source>api</request_source>
+        <solution_label>aes_pdf_to_table_workflow_docintel_multipage_preprocessing_v23_1_0_0</solution_label>
+        <solution_name>ml_x_snc_x_snc_jab_profor_0_global_aes_pdf_to_table_workflow_docintel_multipage_preprocessing_v23_1_0_0</solution_name>
+        <solution_parameters/>
+        <solution_properties>{"description":"AES PDF preprocessing workflow","label":"aes_pdf_to_table_workflow_docintel_multipage_preprocessing_v23_1_0_0","predictPipeline":{},"schedulingInfo":{"useCase":{"left":"aes_pdf_to_table_workflow_docintel_multipage_preprocessing_v23_1_0_0","right":"","length":68,"isFlat":true}},"tags":"aes,pdf,workflow","trainingPipeline":{"pipelineName":"docintel_multipage_preprocessing_v23","pipelineInput":{"config":{"max_pages":25,"save_format":"JPEG","quality":95},"datasets":{"pdf_input":{"tableName":"sn_pdf_table_bldr_pdf_table_input","fieldNames":["pdf","data","chunk_number"],"encodedQuery":"state\u003dassigned","name":"pdf_input","fetchDisplayValue":false}}}},"workflowConfiguration":{"trainingFrequency":"run_once"},"workflowLanguageVersion":"1.0.0"}</solution_properties>
+        <stopwords>a6282a25533333008c5bddeeff7b12c3</stopwords>
+        <sys_class_name>ml_capability_definition_workflow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-19 14:26:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bf7c7d1083c6121000e8a050ceaad3b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AES PDF preprocessing workflow</sys_name>
+        <sys_package display_value="JAB ProForma Bill Summarizer" source="x_snc_jab_profor_0">8a1c391083c6121000e8a050ceaad365</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="JAB ProForma Bill Summarizer">8a1c391083c6121000e8a050ceaad365</sys_scope>
+        <sys_update_name>ml_capability_definition_workflow_bf7c7d1083c6121000e8a050ceaad3b5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-19 14:26:49</sys_updated_on>
+        <table/>
+        <tags>aes,pdf,workflow</tags>
+        <training_frequency>run_once</training_frequency>
+        <triggered_source>API</triggered_source>
+        <word_vector_corpus/>
+    </ml_capability_definition_workflow>
+</record_update>

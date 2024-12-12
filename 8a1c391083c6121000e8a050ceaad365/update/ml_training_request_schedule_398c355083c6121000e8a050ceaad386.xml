@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ml_training_request_schedule">
+    <ml_training_request_schedule action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <business_calendar/>
+        <capability/>
+        <condition/>
+        <conditional>false</conditional>
+        <entered_time/>
+        <max_drift/>
+        <ml_capability_definition display_value="aes_pdf_to_table_workflow_docintel_multipage_preprocessing_v23_1_0_0">bf7c7d1083c6121000e8a050ceaad3b5</ml_capability_definition>
+        <ml_solution/>
+        <name>aes_pdf_to_table_workflow_docintel_multipage_preprocessing_v23_1_0_0</name>
+        <offset/>
+        <offset_type>0</offset_type>
+        <run_as display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek/>
+        <run_period/>
+        <run_start>2024-11-19 14:26:58</run_start>
+        <run_time/>
+        <run_type>once</run_type>
+        <solution_definition/>
+        <sys_class_name>ml_training_request_schedule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-19 14:26:58</sys_created_on>
+        <sys_id>398c355083c6121000e8a050ceaad386</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>aes_pdf_to_table_workflow_docintel_multipage_preprocessing_v23_1_0_0</sys_name>
+        <sys_package display_value="JAB ProForma Bill Summarizer" source="x_snc_jab_profor_0">8a1c391083c6121000e8a050ceaad365</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="JAB ProForma Bill Summarizer">8a1c391083c6121000e8a050ceaad365</sys_scope>
+        <sys_update_name>ml_training_request_schedule_398c355083c6121000e8a050ceaad386</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-11-19 14:26:58</sys_updated_on>
+        <time_zone/>
+        <upgrade_safe>false</upgrade_safe>
+    </ml_training_request_schedule>
+</record_update>

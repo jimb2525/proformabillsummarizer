@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="196d7d9083c6121000e8a050ceaad3de" label="Pro Forma Request Time Entry" max_length="40" name="x_snc_jab_profor_0_pro_forma_request_time_entry" text_index="true" type="collection">
+        <element label="Rate" max_length="38" name="rate" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="200" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Date" max_length="40" name="date" type="glide_date"/>
+        <element label="Amount Billed Base" max_length="38" name="amount_billed_base" type="decimal"/>
+        <element label="Pro Forma Request" max_length="32" name="pro_forma_request" reference="x_snc_jab_profor_0_pro_forma_request" type="reference"/>
+        <element label="Hours Billed Base" max_length="38" name="hours_billed_base" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Timekeeper" max_length="40" name="timekeeper" type="string"/>
+        <index name="index">
+            <element name="pro_forma_request"/>
+        </index>
+    </element>
+</database>

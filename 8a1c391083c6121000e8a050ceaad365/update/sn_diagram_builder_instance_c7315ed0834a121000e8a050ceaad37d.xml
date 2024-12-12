@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_diagram_builder_instance">
+    <sn_diagram_builder_instance action="INSERT_OR_UPDATE">
+        <builder_configuration display_value="Now Assist Skill Kit Diagram Configuration">24fef3e67f8c1210ce7cc46adc8665a9</builder_configuration>
+        <diagram_json>{"start":"start","variables":[],"node_arguments":[],"edge_arguments":[],"nodes":[{"name":"Pro Forma Summarizer","node_id":"393a329f7fc012103f41c20e1f866555","key":"c3315ed0834a121000e8a050ceaad381","resourceMappingId":"c3315ed0834a121000e8a050ceaad381","resourceMapping":{"conditionScript":"(function(currentInputs, context) {\n    /* @param {Object} currentInputs - Inputs provided for the current step.*/\n    /* @param {Object} context - Execution context, which may include:*/\n    /*\t\t\t\t\t\t   - Previous tool outputs/inputs (e.g., context['ToolName.attributeName'] or context.getValue('ToolName.attributeName')).*/\n    /*\t\t\t\t\t\t   - Additional context information (e.g., context.getAllValues()).*/\n    /* @returns {Boolean} - Return 'true' if the condition is met; otherwise 'false'.*/\n    return true;\n})(currentInputs, context);","resourceName":"Pro Forma Summarizer","scope":null,"applicabilityType":"","mappingId":"c3315ed0834a121000e8a050ceaad381","errorHandlerScript":null,"metadata":{"diagramInstanceId":"c7315ed0834a121000e8a050ceaad37d"},"condition":null,"active":true,"errorPolicy":null,"applicabilityTable":"","parentCapability":"7a311ed0834a121000e8a050ceaad3c4","resourceCapability":"7a311ed0834a121000e8a050ceaad3c4","applicabilityFailedPolicy":"","dependsOnList":[],"resourceType":"SKILL"}},{"key":"start","name":"Start","node_id":"6ba9765f7fc012103f41c20e1f866518"},{"key":"end","name":"End","node_id":"901af65f7fc012103f41c20e1f866591"}],"edges":[{"edge_id":"242cb6137f0412103f41c20e1f866546","from":"c3315ed0834a121000e8a050ceaad381","to":"end","add_button_visible":false},{"edge_id":"242cb6137f0412103f41c20e1f866546","from":"start","to":"c3315ed0834a121000e8a050ceaad381"}]}</diagram_json>
+        <name>Pro Forma Summarizer</name>
+        <read_only>false</read_only>
+        <state>draft</state>
+        <sys_class_name>sn_diagram_builder_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-19 15:57:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>c7315ed0834a121000e8a050ceaad37d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Pro Forma Summarizer</sys_name>
+        <sys_package display_value="JAB ProForma Bill Summarizer" source="x_snc_jab_profor_0">8a1c391083c6121000e8a050ceaad365</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="JAB ProForma Bill Summarizer">8a1c391083c6121000e8a050ceaad365</sys_scope>
+        <sys_update_name>sn_diagram_builder_instance_c7315ed0834a121000e8a050ceaad37d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-19 15:57:26</sys_updated_on>
+    </sn_diagram_builder_instance>
+</record_update>

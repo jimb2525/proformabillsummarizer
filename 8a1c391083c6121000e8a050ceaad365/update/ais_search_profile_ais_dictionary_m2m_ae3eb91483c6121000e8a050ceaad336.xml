@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_dictionary_m2m">
+    <ais_search_profile_ais_dictionary_m2m action="INSERT_OR_UPDATE">
+        <dictionary display_value="x_snc_jab_profor_0_proforma_bill_summarizer_workspace_search_profile_default_spell_check_dictionary">e23eb91483c6121000e8a050ceaad333</dictionary>
+        <dictionary_reference_qualifier/>
+        <marked_for_deletion>false</marked_for_deletion>
+        <profile display_value="proforma-bill-summarizer-workspace Search Profile">513e391406c6121049bebd8c9a6d8c04</profile>
+        <sys_class_name>ais_search_profile_ais_dictionary_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-19 14:34:23</sys_created_on>
+        <sys_id>ae3eb91483c6121000e8a050ceaad336</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_jab_profor_0_proforma_bill_summarizer_workspace_search_profile_default_spell_check_dictionary.proforma-bill-summarizer-workspace Search Profile</sys_name>
+        <sys_package display_value="JAB ProForma Bill Summarizer" source="x_snc_jab_profor_0">8a1c391083c6121000e8a050ceaad365</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="JAB ProForma Bill Summarizer">8a1c391083c6121000e8a050ceaad365</sys_scope>
+        <sys_update_name>ais_search_profile_ais_dictionary_m2m_ae3eb91483c6121000e8a050ceaad336</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-19 14:34:23</sys_updated_on>
+    </ais_search_profile_ais_dictionary_m2m>
+</record_update>
