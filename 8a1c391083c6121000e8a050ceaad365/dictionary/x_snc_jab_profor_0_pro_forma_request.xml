@@ -10,5 +10,6 @@
         <element label="Billed Value Total" max_length="40" name="billed_value_total" type="currency"/>
         <element attributes="edge_encryption_enabled=true" label="TimeEntryDataJSON" max_length="1000" name="timeentrydatajson" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Test" max_length="40" name="test" type="string"/>
     </element>
 </database>
